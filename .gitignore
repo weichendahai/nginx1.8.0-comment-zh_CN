@@ -1,0 +1,8 @@
+*.[oa]
+*~
+.DS*
+*.autosave
+*.pro
+*.pro.user*
+READ
+nbproject
